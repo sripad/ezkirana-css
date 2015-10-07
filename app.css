@@ -127,7 +127,7 @@ input.small {
   margin-right: 10px;
 }
 .tile-row {
-  width: 100%;
+  vertical-align: middle;
 }
 
 .cat-row {
@@ -138,13 +138,14 @@ input.small {
 }
 
 .tile {
-  width: 45%;
+  width: 220px;
   height: 250px;
   margin: 6px;
   position: relative;
   float: left;
   border: 1px solid #dddddd;
   border-radius: 4px;
+  vertical-align: middle;
 }
 
 .tile-selected {
