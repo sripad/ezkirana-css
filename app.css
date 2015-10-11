@@ -350,6 +350,11 @@ input.small {
    box-shadow:0 0 1px #333;
 }
 
+
 .page-footer {
-   background-color: white;
+   background-color: inherit !important;
+}
+
+.footer-copyright {
+  color: inherit !important;
 }
