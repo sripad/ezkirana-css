@@ -122,6 +122,12 @@ input.small {
   overflow-y: hidden;
   max-height: 238px;
 }
+
+.products-container {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
 .row {
   margin-left: 10px;
   margin-right: 10px;
@@ -138,7 +144,6 @@ input.small {
 }
 
 .tile {
-  width: 140px;
   height: 250px;
   margin: 6px;
   position: relative;
@@ -161,6 +166,7 @@ input.small {
   text-align: center;
 }
 .tile-name {
+  width: 140px;
   text-align: center;
   text-overflow: ellipsis;
   padding: 3px;
