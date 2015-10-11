@@ -124,8 +124,8 @@ input.small {
 }
 
 .products-container {
-  margin-left: 10px;
-  margin-right: 10px;
+  margin-left: 5%;
+  margin-right: 5%;
 }
 
 .row {
@@ -351,5 +351,5 @@ input.small {
 }
 
 .page-footer {
-   background-color:white;
+   background-color: white;
 }
